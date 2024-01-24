@@ -1,0 +1,12 @@
+**Admin Login Details**
+
+Email	: admin@mail.com
+Password: adminbank1
+
+
+**Staff Login Details**
+
+Email	: staff@mail.com
+Password: staffbank1
+
+
